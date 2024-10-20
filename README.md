@@ -18,7 +18,7 @@
   <li><strong>Data Structures and Algorithms (DSA)</strong> — preparing for Machine Learning</li>
   <li>Solving complex real-world problems through efficient algorithms and design patterns</li>
 </ul>
-
+<h2></h2>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b7sj3o&show_icons=true&theme=radical" alt="My GitHub Stats" />
