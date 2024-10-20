@@ -4,10 +4,6 @@
   🔧 <strong>Python Backend Developer</strong> | 🖥️ <strong>Frontend Enthusiast</strong> | 🚀 <strong>Aspiring ML Engineer</strong>
 </p>
 
-<p align="center">
-  <img src="https://github.com/vitalik-profile.png" width="200" alt="Profile Image" />
-</p>
-
 <h2>⚡ Technologies I Work With:</h2>
 <ul>
   <li><strong>Backend:</strong> Django (best), Flask, FastAPI, SQLAlchemy</li>
@@ -30,8 +26,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitalik&show_icons=true&theme=radical" alt="Vitalik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b7sj3o&show_icons=true&theme=radical" alt="My GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalik&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b7sj3o&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
