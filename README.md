@@ -1,28 +1,37 @@
-<h1 align="center">Hi 👋, I'm Vitaliy</h1>
-<h3 align="center">A passionate fullstack developer from Ukraine</h3>
+<h1 align="center">Hi there! 👋 I'm Vitalik</h1>
 
-- 🔭 I’m currently working on [django project (forum familiar to stackoverflow)](https://github.com/b7sj3o/forum_site.git)
-
-- 🌱 I’m currently learning **React, sqlalchemy, fastAPI and Flask**
-
-- 👯 I’m looking to collaborate on **any project you offer related to django, flask or react frameworks.**
-
-- 👨‍💻 All of my projects are available at [---](---)
-
-- 💬 Ask me about **Python or JavaScript**
-
-- 📫 How to reach me **vitalikfedytnyk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ceancure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ceancure" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vitaliy fedytnyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitaliy fedytnyk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23417183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23417183" height="30" width="40" /></a>
-<a href="https://instagram.com/b7sj3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b7sj3o" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ceancure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ceancure" height="30" width="40" /></a>
+<p align="center">
+  🔧 <strong>Python Backend Developer</strong> | 🖥️ <strong>Frontend Enthusiast</strong> | 🚀 <strong>Aspiring ML Engineer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github.com/vitalik-profile.png" width="200" alt="Profile Image" />
+</p>
 
+<h2>⚡ Technologies I Work With:</h2>
+<ul>
+  <li><strong>Backend:</strong> Django (best), Flask, FastAPI, SQLAlchemy</li>
+  <li><strong>Frontend:</strong> HTML, CSS (Sass), JavaScript, jQuery</li>
+  <li><strong>ORM & Databases:</strong> Deep understanding of relational databases and ORM structures</li>
+  <li><strong>Bots:</strong> Created Telegram bots using Telebot</li>
+  <li><strong>DevOps:</strong> Docker, Git (Advanced)</li>
+</ul>
 
+<h2>🛠️ Currently Exploring:</h2>
+<ul>
+  <li><strong>Data Structures and Algorithms (DSA)</strong> — preparing for Machine Learning</li>
+  <li>Solving complex real-world problems through efficient algorithms and design patterns</li>
+</ul>
+
+<h2>🌱 Freelance Experience:</h2>
+<p>Worked on freelance projects for a few months, honing my backend and problem-solving skills, along with project management.</p>
+
+<hr />
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitalik&show_icons=true&theme=radical" alt="Vitalik's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalik&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
