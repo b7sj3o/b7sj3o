@@ -6,7 +6,7 @@
 
 <h2>⚡ Technologies I Work With:</h2>
 <ul>
-  <li><strong>Backend:</strong> Django (best), Flask, FastAPI, SQLAlchemy</li>
+  <li><strong>Backend:</strong> Django+DRF (best), Flask, FastAPI, SQLAlchemy</li>
   <li><strong>Frontend:</strong> HTML, CSS (Sass), JavaScript, jQuery</li>
   <li><strong>ORM & Databases:</strong> Deep understanding of relational databases and ORM structures</li>
   <li><strong>Telegram Bots:</strong> Created Telegram bots using Telebot</li>
