@@ -1,4 +1,4 @@
-<h1>Hi there! 👋 I'm Vitali</h1>
+<h1>Hi there! 👋 I'm Vitaliy</h1>
 <p><strong>Full-stack Developer</strong> focused on <strong>backend performance</strong> and <strong>modern frontend design</strong>.<br>
 I work mainly with <strong>Python</strong> (<em>FastAPI</em>) and <strong>JavaScript</strong> (<em>React, Next.js</em>) — creating <strong>scalable</strong>, <strong>maintainable</strong>, and <strong>user-friendly</strong> web applications.</p>
 
